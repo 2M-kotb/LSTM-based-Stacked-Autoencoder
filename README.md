@@ -3,7 +3,7 @@ This is the implementation of LSTM-based Staked Autoencoder (LSTM-SAE) model
 
 This model is mentioned in paper by the title:
 
-### LSTM-based Stacked Autoencoder for Multivariate Time Series Forecasting Problems
+### Unsupervised Pre-training LSTM-based Stacked Autoencoder for Multivariate Time Series Forecasting Problems
 
 *There are six python files and one csv file:*
 
